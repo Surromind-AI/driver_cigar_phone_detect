@@ -2,7 +2,7 @@
 Detecting tobacco or phone usage of the driver by object detection with Yolo v4  
 
 ## License
-기재 예정입니다.  
+Apache 2.0 
 
 ## Installation
 설치 및 데이터셋 준비는 [INSTALL.md](./docs/INSTALL.md)를 참조하세요.
